@@ -35,7 +35,7 @@ Regular Expressions (re module)
 
 📁 Files
 
-PRODIGY_CyberSec_Task03_PasswordChecker.ipynb: Full implementation and result.
+Password_Complicity_Checker.ipynb: Full implementation and result.
 
 
 
